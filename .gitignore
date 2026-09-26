@@ -1,0 +1,27 @@
+# BASE DE DATOS Y CONTENEDORES
+# Ignora los datos de la base de datos
+**/pgdata/
+**/postgres-data
+data/
+**/data/
+*.sql
+*.dump
+
+# POSIBLES ARCHIVOS DEL SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# CONFIGURACIONES DE EDITORES
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sin
+*.swp
+
+# ARCHIVOS TEMPORALES O RESPALDOS
+*.tmp
+*.bak
+*~
