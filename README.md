@@ -11,8 +11,10 @@
 
 ---
 ## Proyecto asignado:
-### Obra pública municipal.
- **Repositorio donde se encuentra el fork del proyecto asignado:** [Fork del proyecto asignado](https://github.com/Kazuto834/Fork-PublicMunicipalWorks_DWH)
+**Obra pública municipal.**
+**Repositorio donde se encuentra el fork del proyecto asignado:** [Fork del proyecto asignado](https://github.com/Kazuto834/Fork-PublicMunicipalWorks_DWH)
+**Identificador de confirmación (Commit ID):** commit 59a0f9d96f6def17b3f9cb109bc37314a48c2cb6
+
 ---
 ## Índice de la Práctica
 ### Ejercicio 2: Clonar y poner en funcionamiento el proyecto asignado.
@@ -23,17 +25,18 @@
 
 ### Ejercicio 4: Modelo EER del proyecto propio.
 * **Documento:** [Requisitos ampliados](proyecto-propio/requisitos-ampliados.pdf)
-* **Documento:** [Diagrama EER (notación de Chen)](proyecto-propio/eer-chen.png)
-* **Documento:** [Diagrama EER (notación crows feet)](proyecto-propio/eer-crows-feet.png)
+* **Diagrama EER:** [Diagrama EER (notación de Chen)](proyecto-propio/eer-chen.png)
+* **Diagrama EER:** [Diagrama EER (notación crows feet)](proyecto-propio/eer-crows-feet.png)
 
 ### Ejercicio 5: Modelo EER del proyecto asignado.
 * **Documento:** [Correspondencias con el esquema](proyecto-asignado/correspondencia-con-esquema.pdf)
-* **Diagrama ER:** [Diagrama EER](proyecto-asignado/eer.png)
+* **Diagrama EER:** [Diagrama EER](proyecto-asignado/eer.png)
 
 ### Ejercicio 6: Propuestas de mejora.
-* **Documento:** [Propuestas](propuestas/propuestas-de-mejora.pdf)
+* **Documento:** [Propuestas.](propuestas/propuestas-de-mejora.pdf)
+
 | Integrante | Propuestas | Link al Issue |
-| :--- | :--- | :--- |
+|---|---|---|
 | Garcia Castillo Mario | Título de la propuesta 1 | [Issue #1]([]) |
 | Gonzáles Martínez Danaet Montserrath  | Título de la propuesta 2 | [Issue #2]([]) |
 | Islas Ramirez Diego | Título de la propuesta 3 | [Issue #3]([]) |
