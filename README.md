@@ -37,9 +37,9 @@
 
 | Integrante | Propuestas | Link al Issue |
 |---|---|---|
-| Garcia Castillo Mario | Título de la propuesta 1 | [Issue #1]([]) |
+| Garcia Castillo Mario | Título de la propuesta 1 | [Bitácora de movimientos financieros.]([https://github.com/Kazuto834/BD-Practica-2/issues/1])<br>[Mapa ciudadano interactivo.]([https://github.com/Kazuto834/BD-Practica-2/issues/2])<br>[Control de calidad en proyectos.]([https://github.com/Kazuto834/BD-Practica-2/issues/3]) |
 | Gonzáles Martínez Danaet Montserrath  | Título de la propuesta 2 | [Issue #2]([]) |
-| Islas Ramirez Diego | Título de la propuesta 3 | [Issue #3]([]) |
+| Islas Ramirez Diego | Título de la propuesta 3 | [Control de acceso con roles y expiración de sesión.]([https://github.com/Kazuto834/BD-Practica-2/issues/4])<br>[Reconciliación de evidencia huérfana en el almacenamiento de objetos.]([https://github.com/Kazuto834/BD-Practica-2/issues/5])<br>[Predicción de fecha de finalización por serie de tiempo.]([https://github.com/Kazuto834/BD-Practica-2/issues/6]) |
 
 ### Ejercicio 7: Exposición.
 * **Documento:** [Presentación](exposicion/presentacion.pdf)
