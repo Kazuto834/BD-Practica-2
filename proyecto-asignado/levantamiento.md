@@ -82,10 +82,13 @@ Con el servidor de la base de datos ya conectado:
 
 ---
 ## EVIDENCIA DE USO LOCAL (INTERFAZ GRAFICA DEL PROYECTO)
-
-Abrimos los archivos web que vienen incluidos en el repositorio, ya que el contenedor de Docker que levantaste se encarga exclusivamente de la base de datos y la API (el backend). Según el README.md, toda la interfaz visual (el frontend) está contenida dentro de la carpeta docs/index.html
-
-Abrimos el archivo y esto es lo que veríamos:
+Para este apartado debemos tener insalatada alguna version de python, se puede hacer desde la Microsoft Store, una vez instalado se abre una nueva terminal en la carpeta que se menciona adelante.
+Abrimos los archivos web que vienen incluidos en el repositorio, ya que el contenedor de Docker que esta funcionando se encarga exclusivamente de la base de datos y la API (el backend). Según el README.md, toda la interfaz visual (el frontend) está contenida dentro de la carpeta docs/index.html
+Comunmente los navegadores habituales bloquean los scritps de JavaScript por seguridad. Por lo que abriremos ese archivo index mediante una funcion de python usando la terminal:
+```bash
+python -m http.server 8000
+```
+Despues de ejecutar el comando en terminal entramos a la direccion que planteamos "http://localhost:8000" en el navegador y deberia verse tal cual estaba planeado:
 
 ![captura index de aplicacion](evidencias/Imagen18.png)
 ![captura index de aplicacion](evidencias/Imagen19.png)
