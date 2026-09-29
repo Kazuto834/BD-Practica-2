@@ -37,9 +37,9 @@
 
 | Integrante | Propuestas | Link al Issue |
 |---|---|---|
-| Garcia Castillo Mario | TBitácora de movimientos financieros.<br>Mapa ciudadano interactivo.<br>Control de calidad en proyectos. | [Issue #1]([https://github.com/Kazuto834/BD-Practica-2/issues/1])<br>[Issue #2]([https://github.com/Kazuto834/BD-Practica-2/issues/2])<br>[Issue #3]([https://github.com/Kazuto834/BD-Practica-2/issues/3]) |
-| Gonzáles Martínez Danaet Montserrath  | Sistema de alertas por variación de costos y congelamiento de pagos.<br> Modulo de calificación y retroalimentación técnica de contratistas.<br>Panel de geofencing y validación en sitio para evidencias de supervisión. | [Issue #7]([https://github.com/Kazuto834/BD-Practica-2/issues/7])<br>[Issue #8]([https://github.com/Kazuto834/BD-Practica-2/issues/8])<br>[Issue #9]([https://github.com/Kazuto834/BD-Practica-2/issues/9]) |
-| Islas Ramirez Diego | Control de acceso con roles y expiración de sesión.<br>Reconciliación de evidencia huérfana en el almacenamiento de objetos.<br> | [Issue #4]([https://github.com/Kazuto834/BD-Practica-2/issues/4])<br>[Issue #5]([https://github.com/Kazuto834/BD-Practica-2/issues/5])<br>[Issue #6]([https://github.com/Kazuto834/BD-Practica-2/issues/6]) |
+| Garcia Castillo Mario | TBitácora de movimientos financieros.<br>Mapa ciudadano interactivo.<br>Control de calidad en proyectos. | [Issue #1](https://github.com/Kazuto834/BD-Practica-2/issues/1)<br>[Issue #2](https://github.com/Kazuto834/BD-Practica-2/issues/2)<br>[Issue #3](https://github.com/Kazuto834/BD-Practica-2/issues/3) |
+| Gonzáles Martínez Danaet Montserrath  | Sistema de alertas por variación de costos y congelamiento de pagos.<br> Modulo de calificación y retroalimentación técnica de contratistas.<br>Panel de geofencing y validación en sitio para evidencias de supervisión. | [Issue #7](https://github.com/Kazuto834/BD-Practica-2/issues/8)<br>[Issue #8](https://github.com/Kazuto834/BD-Practica-2/issues/9)<br>[Issue #9](https://github.com/Kazuto834/BD-Practica-2/issues/10) |
+| Islas Ramirez Diego | Control de acceso con roles y expiración de sesión.<br>Reconciliación de evidencia huérfana en el almacenamiento de objetos.<br> | [Issue #4](https://github.com/Kazuto834/BD-Practica-2/issues/4)<br>[Issue #5](https://github.com/Kazuto834/BD-Practica-2/issues/5)<br>[Issue #6](https://github.com/Kazuto834/BD-Practica-2/issues/6) |
 
 ### Ejercicio 7: Exposición.
 * **Documento:** [Presentación](exposicion/presentacion.pdf)
